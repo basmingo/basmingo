@@ -2,7 +2,9 @@
 <h3 align="center">Java Developer, living in Turkey</h3>
 
 - 🇳🇱  Passed through an internship in the Netherlands by their offer. </br>
-- 🔭 Actively learning new, and truly love Algorithms and Computer Science, working on my Pet projects
+- 🔭 Actively learning new, truly love Algorithms and Computer Science, working on my Pet projects
+
+T.S. Eliot | V.V. Nabokov | Strugatskie brothers | Marvel Spider-man | One punch man | Berserk | Evangelion | Sustainability | Dark souls
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
