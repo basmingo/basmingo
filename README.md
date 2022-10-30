@@ -1,9 +1,3 @@
-## Hey! 👋 
-
-I'm Pavel Basmanov </br>
-Java Developer, living in Turkey </br>
-
-
 <h1 align="center">Hi 👋, I'm Pavel Basmanov</h1>
 <h3 align="center">Java Developer, living in Turkey</h3>
 
