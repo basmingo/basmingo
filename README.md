@@ -4,7 +4,7 @@
 - 🇳🇱  Passed through an internship in the Netherlands by their offer. </br>
 - 🔭 Actively learning new, truly love Algorithms and Computer Science, working on my Pet projects
 
-T.S. Eliot | V.V. Nabokov | Strugatskie brothers | Marvel Spider-man | One punch man | Berserk | Evangelion | Sustainability | Dark souls
+<sup><sub>T.S. Eliot | V.V. Nabokov | Strugatskie brothers | Marvel Spider-man | One punch man | Berserk | Evangelion | Sustainability | Dark souls Add y</sub></sup>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
