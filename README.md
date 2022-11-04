@@ -6,9 +6,6 @@ I have an experience in client meetings, planning, and leading of the
 design process as an Architect. </br>
 Actively learning new, truly love Algorithms and Computer Science, working on my Pet projects
 
-I have an experience in client meetings, planning, and leading of the 
-design process as an Architect.
-
 <sup><sub>T.S. Eliot | V.V. Nabokov | Strugatskie brothers | Marvel Spider-man | One punch man | Berserk | Evangelion | Sustainability | Dark souls</sub></sup>
 
 <h3 align="left">Connect with me:</h3>
