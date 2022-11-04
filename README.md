@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pavel Basmanov</h1>
 <h3 align="center">Java Developer, living in Turkey</h3>
 
-- 🇳🇱  Passed through an internship in the Netherlands by their offer. </br>
-- 🔭 Actively learning new, truly love Algorithms and Computer Science, working on my Pet projects
+Passed through an internship in the Netherlands by their offer. </br>
+I have an experience in client meetings, planning, and leading of the 
+design process as an Architect. </br>
+Actively learning new, truly love Algorithms and Computer Science, working on my Pet projects
+
+I have an experience in client meetings, planning, and leading of the 
+design process as an Architect.
 
 <sup><sub>T.S. Eliot | V.V. Nabokov | Strugatskie brothers | Marvel Spider-man | One punch man | Berserk | Evangelion | Sustainability | Dark souls</sub></sup>
 
